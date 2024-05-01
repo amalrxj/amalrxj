@@ -12,7 +12,7 @@
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">, I'm Amal Raj</h1>
 
-<img align="right" alt="Coding" width="350" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" style="border-radius: 8px; box-shadow: 0 3px 6px rgba(0,0,0,0.1)">
+<img align="right" alt="Coding" width="350" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" style="border-radius: 8px;">
 
 - 🌱 I’m currently learning **JavaScript & Python.**
 
