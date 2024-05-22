@@ -12,7 +12,7 @@
 
 <h1 align="center">Hi <img src="https://github.com/amalrxj/amalrxj/blob/main/assets/Hi.gif" alt="hi-img" width="30">, I'm Amal Raj</h1>
 
-<img align="right" alt="dev-img" width="340" src="https://github.com/amalrxj/amalrxj/blob/main/assets/Dev.gif" style="border-radius: 12px;">
+<img align="right" alt="dev-img" width="340" src="https://github.com/amalrxj/amalrxj/blob/main/assets/Dev.gif" style="border-radius:10%">
 
 - 🌱 I’m currently learning **JavaScript & Python.**
 
