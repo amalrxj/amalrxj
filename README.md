@@ -37,10 +37,10 @@ https://github-readme-stats.vercel.app/api?username=joshxfi&theme=midnight-purpl
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=amalrxj&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)<br/>
 [![](https://git-hub-streak-stats.vercel.app?user=amalrxj&theme=midnight-purple&hide_border=true&mode=weekly)](https://git.io/streak-stats)<br/>
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=amalrxj&theme=midnight-purple&hide_border=false)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amalrxj&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amalrxj&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=amalrxj&theme=midnight-purple&hide_border=false)<br/>-->
 
 
