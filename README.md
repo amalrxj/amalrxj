@@ -43,4 +43,4 @@ https://github-readme-stats.vercel.app/api?username=joshxfi&theme=midnight-purpl
 ![](https://github-profile-trophy.vercel.app/?username=amalrxj&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=amalrxj&theme=midnight-purple&hide_border=false)<br/>-->
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amalrxj&theme=midnight-purple&hide_border=true&short_numbers=true&mode=weekly)]
