@@ -42,4 +42,4 @@ https://github-readme-stats.vercel.app/api?username=joshxfi&theme=midnight-purpl
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amalrxj&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=amalrxj&theme=midnight-purple&hide_border=false)<br/>-->
-<!--![](https://git-hub-streak-stats.vercel.app?user=amalrxj&theme=midnight-purple&hide_border=true&mode=weekly)<br/>-->
+![](https://git-hub-streak-stats.vercel.app?user=amalrxj&theme=midnight-purple&hide_border=true&mode=daily)
