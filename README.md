@@ -23,8 +23,6 @@ https://github-readme-stats.vercel.app/api?username=joshxfi&theme=midnight-purpl
 
 - 💬 Ask me about **JavaScript, React, Android Dev, Web Dev.**
 
-- 📫 How to reach me amalrajkvdev@gmail.com
-
 - 📄 Know about my experiences [https://amalrajkv.me](https://amalrajkv.me)
 
 - ⚡ Fun fact: **The first rule of programming- if it works, don’t touch it. 💻**
