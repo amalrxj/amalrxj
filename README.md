@@ -41,6 +41,6 @@ https://github-readme-stats.vercel.app/api?username=joshxfi&theme=midnight-purpl
 ![snake](https://github.com/amalrxj/amalrxj/blob/output/github-snake-dark.svg?palette=github-dark)
 <!--![snake gif](https://github.com/amalrxj/amalrxj/blob/output/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)-->
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amalrxj&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=amalrxj&theme=discord&no-frame=true&no-bg=true&margin-w=2)
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=amalrxj&theme=midnight-purple&hide_border=false)<br/>-->
 ![](https://git-hub-streak-stats.vercel.app?user=amalrxj&theme=midnight-purple&hide_border=true&mode=daily)
