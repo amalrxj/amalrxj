@@ -13,8 +13,6 @@ https://github-readme-stats.vercel.app/api?username=joshxfi&theme=midnight-purpl
 
 <h1 align="center">Hi <img src="https://github.com/amalrxj/amalrxj/blob/main/assets/Hi.gif" alt="hi-img" width="30">, I'm Amal Raj</h1>
 
-<!--<img align="right" alt="dev-img" width="340" src="https://github.com/amalrxj/amalrxj/blob/main/assets/Dev.gif" style="border-radius:10%">-->
-
 - 🌱 I’m currently learning **JavaScript & Python.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amalrxj](https://github.com/amalrxj/)
@@ -35,12 +33,12 @@ https://github-readme-stats.vercel.app/api?username=joshxfi&theme=midnight-purpl
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=amalrxj&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com?user=amalrxj&theme=midnight-purple&hide_border=true&short_numbers=true&mode=weekly)<br/>
+![](https://git-hub-streak-stats.vercel.app?user=amalrxj&theme=midnight-purple&hide_border=true&mode=daily)
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=amalrxj&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)-->
 <!--![snake gif](https://github.com/amalrxj/amalrxj/blob/output/github-snake.svg)-->
 <!--![snake gif](https://github.com/amalrxj/amalrxj/blob/output/github-snake-dark.svg)-->
 ![snake](https://github.com/amalrxj/amalrxj/blob/output/github-snake-dark.svg?palette=github-dark)
 <!--![snake gif](https://github.com/amalrxj/amalrxj/blob/output/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)-->
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amalrxj&theme=discord&no-frame=true&no-bg=true&margin-w=2)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amalrxj&theme=discord&no-frame=true&no-bg=true&margin-w=2)-->
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=amalrxj&theme=midnight-purple&hide_border=false)<br/>-->
-![](https://git-hub-streak-stats.vercel.app?user=amalrxj&theme=midnight-purple&hide_border=true&mode=daily)
